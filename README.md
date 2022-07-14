@@ -11,7 +11,7 @@ J2 is connected to LED circuit, already embedded in LCD and GND. Current limitin
 LDO had to be inserted on external board, because this part of controller board was not populated.
 
 # electrical info
-Vin ~> Vout + 2V (drop on 555) + 1V (drop on LDO)
+Vin > Vout + 2V (drop on 555) + 1V (drop on LDO)
 
 Iin < 500 mA // LEDs and LDO draw about 40 mA in this configuration, so entire circuit can be powered of 555 timer leg.
 
