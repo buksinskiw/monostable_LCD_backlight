@@ -18,3 +18,6 @@ Iin < 500 mA // LEDs and LDO draw about 40 mA in this configuration, so entire c
 Vout ~ 7,5 V, adjustable via R2 and R3 configuration
 
 Ton ~ 30 seconds, adjustable via R1 and C2 configuration // T=1.1*R1*C2
+
+
+![PCB](https://user-images.githubusercontent.com/108933034/178946206-e6673bb5-de36-49c1-a1bf-8903232d7ddb.png)
